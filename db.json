@@ -1,18 +1,18 @@
 {
-    "learnerUUID": '14310699',
+    "learnerUUID": "14310699",
     "defaultObjectiveUUID": null,
     "objectives": [
         {
-            "objectiveUUID": '123456',
-            "learnerUUID": '14310699',
+            "objectiveUUID": "123456",
+            "learnerUUID": "14310699",
             "topic": {
-                "topicUUID": '0987'
+                "topicUUID": "0987"
             },
             "creator": {
-                "creatorUUID": '666',
-                "organisationalUUID": '666',
-                "organisationalPriority": '1',
-                "creatorType": 'learner'
+                "creatorUUID": "666",
+                "organisationalUUID": "666",
+                "organisationalPriority": "1",
+                "creatorType": "learner"
             }
         }
     ]
