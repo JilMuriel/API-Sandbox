@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    learnerUUID: '14310699',
+    defaultObjectiveUUID: null,
+    objectives: [
+        {
+            objectiveUUID: '123456',
+            learnerUUID: '14310699',
+            topic: {
+                topicUUID: '0987'
+            },
+            creator: {
+                creatorUUID: '666',
+                organisationalUUID: '666',
+                organisationalPriority: '1',
+                creatorType: 'learner'
+            }
+        }
+    ]
 }
